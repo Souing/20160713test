@@ -3,3 +3,4 @@ var b= 1;
 
 console.log(a);
 console.log(b);
+console.log(b);
